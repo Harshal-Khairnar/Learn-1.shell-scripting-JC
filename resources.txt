@@ -1,0 +1,29 @@
+Topic: Shell Scripting
+
+1.courses link's (udemy):
+
+    i.  Shell Scripting: Discover How to Automate Command Line Tasks
+        https://www.udemy.com/shell-scripting-linux/
+
+    ii. Linux Bash Shell Scripting: Complete Guide (incl. AWK & SED)
+        https://www.udemy.com/linux-bash-shell-scripting-complete-guide-incl-awk-sed/
+
+    iii.Linux Shell Scripting: A Project-Based Approach to Learning
+        https://www.udemy.com/linux-shell-scripting-projects/
+
+    iv. Bash Shell Scripting: Crash Course For Beginners
+        https://www.udemy.com/bash-shell-scripting-crash-course-for-beginners/
+
+2.articles link's (medium):
+
+    i.  Your Perfect Kickstart To Shell Scripting
+        https://codeburst.io/your-perfect-kickstart-to-shell-scripting-857b81c0939b
+
+    ii. 13 Tips & Tricks for Writing Shell Scripts with Awesome UX
+        https://codeburst.io/13-tips-tricks-for-writing-shell-scripts-with-awesome-ux-19a525ae05ae
+
+    iii.Testing Your Shell Scripts, with Bats
+        https://medium.com/@pimterry/testing-your-shell-scripts-with-bats-abfca9bdc5b9
+
+    iv. Shell scripts run via secure web API
+        https://medium.com/cmd-io/shell-scripts-run-via-secure-web-api-9a59642ee460
