@@ -1,0 +1,18 @@
+1. complete the course + exercises
+
+    i. Jason Cannon (basic + project based approach)
+
+    ii. Richard Bohm 
+
+
+2. articles on medium 
+
+3. quizzes on hacker-rank
+
+4. make linux fundamentals strong
+
+5. follow the best practices
+
+6. make documentation on this learning
+
+7. contribute what you know to beginner's programmer through blogs, videos
