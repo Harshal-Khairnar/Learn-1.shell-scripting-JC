@@ -15,9 +15,9 @@ command=$(ls *.jpg)
 
 if [ "$?" -eq 0 ]
 then
-    FILES=command
+    FILES=$command
     DATE=$(date "+%F")
-    for  FILE in FILES
+    for  FILE in $FILES
     do
         mv ${FILE} ${DATE}-${FILE}
     done
