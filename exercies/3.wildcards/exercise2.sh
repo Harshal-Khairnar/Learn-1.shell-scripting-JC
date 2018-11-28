@@ -16,17 +16,17 @@ read -p "Please enter a file prefix:  (Press ENTER for ${DATE}) " PREFIX
 
 if [ -z $PREFIX ]
 then
-    PREFIX=PREFIX
+    PREFIX=$DATE
 else
-    PREFIX=DATE
+    PREFIX=$PREFIX
 fi
 
 command=$(ls *.${EXTN})
 
 if [ "$?" -eq 0 ]
 then
-    FILES=command
-    for  FILE in FILES
+    FILES=$command
+    for  FILE in $FILES
     do
         echo "Renaming ${FILE} to ${PREFIX}-${FILE}."
         mv ${FILE} ${PREFIX}-${FILE}

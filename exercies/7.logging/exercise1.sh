@@ -5,7 +5,7 @@
 # message with that random number.  Use the "user" facility and the "info" facility for your 
 # messages.
 
-randomNo=$(RANDOM)
+randomNo=$RANDOM
 
 echo "${randomNo}"
 

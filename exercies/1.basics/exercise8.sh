@@ -5,8 +5,8 @@
 # an argument instead of prompting the user to enter it. 
 
 FILES=$@
-
-for FILE in FILES
+echo ""
+for FILE in $FILES
 do
     if [ -f $FILE ]
     then
@@ -19,4 +19,5 @@ do
     else
         echo "It's a other type of file : ${FILE}"
     fi
+    echo "__________"
 done
