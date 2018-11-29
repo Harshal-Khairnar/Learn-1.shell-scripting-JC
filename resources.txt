@@ -27,3 +27,6 @@ Topic: Shell Scripting
 
     iv. Shell scripts run via secure web API
         https://medium.com/cmd-io/shell-scripts-run-via-secure-web-api-9a59642ee460
+
+3. bash color coding 
+    https://misc.flogisoft.com/bash/tip_colors_and_formatting
