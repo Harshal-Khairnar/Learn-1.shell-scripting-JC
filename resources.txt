@@ -30,3 +30,6 @@ Topic: Shell Scripting
 
 3. bash color coding 
     https://misc.flogisoft.com/bash/tip_colors_and_formatting
+
+4. supporting tools
+    https://www.cyberciti.biz/tips/spice-up-your-unix-linux-shell-scripts.html
