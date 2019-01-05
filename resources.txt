@@ -33,3 +33,10 @@ Topic: Shell Scripting
 
 4. supporting tools
     https://www.cyberciti.biz/tips/spice-up-your-unix-linux-shell-scripts.html
+
+5. YouTube Videos (crash course) by Travery-Media
+    i.  Shell Scripting Crash Course - Beginner Level 
+    ii. SSH Crash Course | With Some DevOps
+    
+6. TutorialsPoint
+    https://www.tutorialspoint.com/unix/index.htm
